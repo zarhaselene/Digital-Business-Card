@@ -1,6 +1,7 @@
 import './styles/App.css';
 import Header from './components/Header';
 import Buttons from './components/Buttons';
+import Info from './components/Info';
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <div className="wrapper">
         <Header />
         <Buttons />
+        <Info />
       </div>
     </div>
   );
