@@ -1,0 +1,18 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #23252C;
+    width: 100vw;
+    height: 100vh;
+}
+
+.wrapper{
+    width: 320px;
+    height: 780px;
+    background-color: #1A1B21;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    overflow: hidden;
+}
