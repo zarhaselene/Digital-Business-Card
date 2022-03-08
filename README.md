@@ -8,10 +8,5 @@
 ## Project Status
 This project is in progress.
 
-
 ## Live Demo
 [Live Demo Link](https://zs-digital-business-card.netlify.app/)
-
-
-## Screenshoot
-![screenshot](./src/images/screenshot.jpg)
