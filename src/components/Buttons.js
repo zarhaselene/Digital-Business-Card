@@ -11,7 +11,11 @@ export default function Buttons() {
 					<p>Email</p>
 				</button>
 			</a>
-			<a href="https://linkedin.com/in/zarhabuske">
+			<a
+				href="https://linkedin.com/in/zarhabuske"
+				target="_blank"
+				rel="noopener noreferrer"
+			>
 				<button className="button linkedin">
 					{<FaLinkedin className="linkedin-icon" />}
 					LinkedIn
