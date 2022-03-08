@@ -10,7 +10,7 @@ export default function Header() {
       <div className="header-info">
         <h1>Zarha Buske</h1>
         <h4>Frontend Developer</h4>
-        <h6>website comming soon</h6>
+        <h6>website coming soon</h6>
       </div>
     </header>
   )
