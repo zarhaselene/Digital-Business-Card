@@ -1,0 +1,24 @@
+footer {
+	position: absolute;
+	width: 100%;
+	height: 65px;
+	bottom: 0;
+	background-color: #161619;
+	font-size: 35px;
+}
+
+.icons {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	padding: 15px 40px;
+}
+
+.icons a {
+	color: #918e9b;
+}
+
+.icons a:hover {
+	transform: scale(1.05);
+	color: #a3a1ac;
+}

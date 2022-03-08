@@ -2,7 +2,6 @@
 .info-container {
 	width: 250px;
     height: 200px;
-    color: #F5F5F5;
     padding: 20px;
     
 }
@@ -10,11 +9,15 @@
     font-size: 17px;
     font-weight: 700;
     line-height: 24px;
+    color: #F5F5F5;
+    padding-bottom: 5px;
 }
 
 .info-container p{
     font-size: 11px;
     font-weight: 400;
     line-height: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
+    color: #DCDCDC;
+
 }
