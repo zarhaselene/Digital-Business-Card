@@ -1,7 +1,9 @@
+import React from 'react'
 import './styles/App.css';
 import Header from './components/Header';
 import Buttons from './components/Buttons';
 import Info from './components/Info';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -11,6 +13,7 @@ function App() {
         <Header />
         <Buttons />
         <Info />
+        <Footer />
       </div>
     </div>
   );
