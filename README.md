@@ -9,4 +9,4 @@
 This project is in progress.
 
 ## Live Demo
-[Live Demo Link](https://zs-digital-business-card.netlify.app/)
+[Live Demo](https://zs-digital-business-card.netlify.app/)
